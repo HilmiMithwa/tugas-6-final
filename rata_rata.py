@@ -13,3 +13,8 @@ def average(*angka):
 
 
 average(5,10)
+
+a = 3
+b = 5
+
+print(a+b)
